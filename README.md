@@ -10,7 +10,7 @@ To install the extension locally:
 
 1. Download the YouReact extension folder from this repository.
 2. Install dependencies (Node modules)
-   *npm install
+   npm install
 4. Open **Google Chrome**.
 5. Navigate to `chrome://extensions`.
 6. Enable **Developer Mode** (top right corner).
