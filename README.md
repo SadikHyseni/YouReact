@@ -9,12 +9,14 @@
 To install the extension locally:
 
 1. Download the YouReact extension folder from this repository.
-2. Open **Google Chrome**.
-3. Navigate to `chrome://extensions`.
-4. Enable **Developer Mode** (top right corner).
-5. Click **Load unpacked**.
-6. Select the folder containing the YouReact extension.
-7. Open YouTube — the extension will automatically activate.
+2. Install dependencies (Node modules)
+   *npm install
+4. Open **Google Chrome**.
+5. Navigate to `chrome://extensions`.
+6. Enable **Developer Mode** (top right corner).
+7. Click **Load unpacked**.
+8. Select the folder containing the YouReact extension.
+9. Open YouTube — the extension will automatically activate.
 
 ---
 
